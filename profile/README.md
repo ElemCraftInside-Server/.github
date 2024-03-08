@@ -1,7 +1,9 @@
 中文 | [English](https://github.com/rrrexfield/CraftInside/blob/master/README_en.md)
 
+<p align="center">
+  <img src="https://github.com/ElemCraftInside-Server/ElemCraftInside-Modpack/blob/Development-Log/IMG_20240307_233125.jpg" width="200px">
+</p>
 
-![image](https://github.com/ElemCraftInside-Server/ElemCraftInside-Modpack/blob/Development-Log/IMG_20240307_233125.jpg)
 
 
 # **CraftInside服务器整合包**
