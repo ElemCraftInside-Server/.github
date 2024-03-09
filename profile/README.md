@@ -1,10 +1,10 @@
-中文 | [English](https://github.com/rrrexfield/CraftInside/blob/master/README_en.md)
+中文 | [English](https://github.com/ElemCraftInside-Server/.github/blob/master/profile/README_en.md)
 
 <p align="center">
   <img src="https://github.com/ElemCraftInside-Server/.github/blob/master/pic/ECISdev%20icon%20horizontal%20version.png" width="600px">
 </p>
 
-## ECIS（ElemCraftInside-Server）:一个筹备中的CraftInside的分支项目,[开发日志DevLog](https://github.com/orgs/ElemCraftInside-Server/projects/3)
+## ECIS（ElemCraftInside-Server）:一个筹备中的CraftInside的分支项目,QQ交流群：583495083,[开发日志DevLog](https://github.com/orgs/ElemCraftInside-Server/projects/3)
 
 # **CraftInside服务器整合包**
 
