@@ -1,4 +1,4 @@
-[中文](https://github.com/ElemCraftInside-Server/.github/edit/master/profile/README.md) | English
+[中文](https://github.com/ElemCraftInside-Server/.github/blob/master/profile/README.md) | English
 
 <p align="center">
   <img src="https://github.com/ElemCraftInside-Server/.github/blob/master/pic/ECISdev%20icon%20horizontal%20version.png" width="600px">
