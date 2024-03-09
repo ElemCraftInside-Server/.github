@@ -134,12 +134,12 @@
 
 ----------
 
-** ECIS项目核心开发组公示 **
+  ** *ECIS项目核心开发组公示* **
 
 ECIS CoreManage Team 一期开发成员（A-Z）：
 
-Numerous_（ECIS）
-President0（ECIS）
-Sakura-ender（ECIS）
-WE_justStayT（ECIS）
-YvIsehlohn（ECIS）
+[Numerous_（ECIS）](https://github.com/rrrexfield)
+[President0（ECIS）](https://github.com/President0)
+[Sakura-ender（ECIS）](https://github.com/sakura-ender)
+[WE_justStayT（ECIS）](https://github.com/LiaoYK001)
+[YvIsehlohn（ECIS）](https://github.com/yvisehrlohn)
