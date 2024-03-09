@@ -133,3 +133,13 @@
 [<div align=center>![](https://pic.imgdb.cn/item/65e412c59f345e8d032da0d1.jpg)](pic3)
 
 ----------
+
+** ECIS项目核心开发组公示 **
+
+ECIS CoreManage Team 一期开发成员（A-Z）：
+
+Numerous_（ECIS）
+President0（ECIS）
+Sakura-ender（ECIS）
+WE_justStayT（ECIS）
+YvIsehlohn（ECIS）
