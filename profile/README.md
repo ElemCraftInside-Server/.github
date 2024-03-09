@@ -1,7 +1,7 @@
 中文 | [English](https://github.com/rrrexfield/CraftInside/blob/master/README_en.md)
 
 <p align="center">
-  <img src="https://github.com/ElemCraftInside-Server/ElemCraftInside-Modpack/blob/Development-Log/IMG_20240307_233125.jpg" width="200px">
+  <img src="https://github.com/ElemCraftInside-Server/.github/blob/master/pic/ECISdev%20icon%20horizontal%20version.png" width="600px">
 </p>
 
 ## ECIS（ElemCraftInside-Server）:一个筹备中的CraftInside的分支项目
