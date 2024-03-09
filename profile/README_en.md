@@ -4,7 +4,7 @@
   <img src="https://github.com/ElemCraftInside-Server/.github/blob/master/pic/ECISdev%20icon%20horizontal%20version.png" width="600px">
 </p>
 
-## ECIS（ElemCraftInside-Server）:A branch project under development by CraftInside [Development log](https://github.com/orgs/ElemCraftInside-Server/projects/3)
+## ECIS（ElemCraftInside-Server）:A branch project under development by CraftInside.Join our QQ Group to communicate：583495083 [Development log](https://github.com/orgs/ElemCraftInside-Server/projects/3)
 
 **Welcome to the Minecraft world of CraftInside! This is not just a game server, but also a creative paradise. Here, you will open the doors to endless possibilities, unlock the power of creativity, join our server, and embark on your adventure with like-minded companions!**
 
@@ -131,3 +131,13 @@ We are always here to support you! Whether it's problems encountered in the game
 [<div align=center>![](https://pic.imgdb.cn/item/65e412c59f345e8d032da0d1.jpg)](pic3)
 
 ----------
+
+ ** *The core development team of ECIS project* **
+
+ECIS CoreManage Team : The members of 1st program stage（A-Z）：
+
+[Numerous_（ECIS）](https://github.com/rrrexfield)
+[President0（ECIS）](https://github.com/President0)
+[Sakura-ender（ECIS）](https://github.com/sakura-ender)
+[WE_justStayT（ECIS）](https://github.com/LiaoYK001)
+[YvIsehlohn（ECIS）](https://github.com/yvisehrlohn)
