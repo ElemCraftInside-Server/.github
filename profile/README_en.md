@@ -71,10 +71,17 @@ We are always here to support you! Whether it's problems encountered in the game
 
 ----
 
+<div align=center>
+
+##  附录：模组列表  ##
+<p align="center">
+<img src="https://github.com/orgs/ElemCraftInside-Server/projects/5/assets/149880662/9b0861db-7a2b-442f-96d1-1151f2155250" width="200px">
+</p>
+
+ [## ECIS Mods Center 模组中心列表 ##](https://github.com/orgs/ElemCraftInside-Server/projects/5)
+</p>
+
 <div align=left>
-
-## Appendix: Mod List
-
 ### Gameplay Mods
 
 - [Create]
