@@ -1,7 +1,7 @@
 中文 | [English](https://github.com/ElemCraftInside-Server/.github/blob/master/profile/README_en.md)
 
 <p align="center">
-  <img src="https://github.com/ElemCraftInside-Server/.github/blob/master/pic/ECISdev%20icon%20horizontal%20version.png" width="600px">
+  <img src="https://github.com/ElemCraftInside-Server/.github/blob/master/pic/ECIS-169.png" width="600px">
 </p>
 
 ## ECIS（ElemCraftInside-Server）:一个筹备中的CraftInside的分支项目,QQ交流群：583495083,[开发日志DevLog](https://github.com/orgs/ElemCraftInside-Server/projects/3)
@@ -12,7 +12,7 @@
 
 **探索 *机械动力、农夫乐事、装饰、家具* 等模组的秘密，突破Minecraft原版限制。无论是打造更复杂、更高效的机器，还是体验烹饪的乐趣，抑或是建造更漂亮、更真实的建筑，我们的服务器始终为你敞开，我们的使用文档将为你提供详尽的指导，助你成为一名真正的Minecraft大师！**
 
-[<div align=center>![](https://pic.imgdb.cn/item/65e412c59f345e8d032d9f99.jpg)](pic1)
+[<div align=center>![](https://github.com/ElemCraftInside-Server/.github/blob/master/pic/65e412c59f345e8d032d9f99.jpg)](pic1)
 
 <div align=right>注：本服务器正处于公测阶段，故暂未开放公共进服通道
 
@@ -69,7 +69,7 @@
 - 你的支持是我们前进的动力！本服务器完全由腐竹用爱发电驱动，通过捐款，你将直接支持服务器的运营和发展，帮助我们不断提升游戏体验，为玩家们带来更多惊喜和乐趣！每一份捐助都将被用于服务器的改进和维护，让我们共同为这片美好的Minecraft世界添砖加瓦！
 *<div align=right>若您暂无经济来源请勿赞助*
 
-[<div align=center>![](https://pic.imgdb.cn/item/65e412c49f345e8d032d9ec2.jpg)](pic2)
+[<div align=center>![](https://github.com/ElemCraftInside-Server/.github/blob/master/pic/65e412c49f345e8d032d9ec2.jpg)](pic2)
 
 ----
 
@@ -138,7 +138,7 @@
 - [Embeddium Extras]
 - [Embeddium Dynamic Lights]
 
-[<div align=center>![](https://pic.imgdb.cn/item/65e412c59f345e8d032da0d1.jpg)](pic3)
+[<div align=center>![](https://github.com/ElemCraftInside-Server/.github/blob/master/pic/65e412c59f345e8d032da0d1.jpg)](pic3)
 
 ----------
 
