@@ -156,14 +156,14 @@
 
 ECIS CoreManage Team 一期开发成员（A-Z）：
 
-[Numerous_（ECIS）](https://github.com/rrrexfield)
-[President0（ECIS）](https://github.com/President0)
-[Sakura-ender（ECIS）](https://github.com/sakura-ender)
-[WE_justStayT（ECIS）](https://github.com/LiaoYK001)
-[YvIsehlohn（ECIS）](https://github.com/yvisehrlohn)
+<img src="https://avatars.githubusercontent.com/u/125719548?s=70&v=4" width="30px">[Numerous_（ECIS）](https://github.com/rrrexfield)
+<img src="https://avatars.githubusercontent.com/u/78775990?s=70&v=4" width="30px">[President0（ECIS）](https://github.com/President0)
+<img src="https://avatars.githubusercontent.com/u/117716855?s=70&v=4" width="30px">[Sakura-ender（ECIS）](https://github.com/sakura-ender)
+<img src="https://avatars.githubusercontent.com/u/149880662?s=70&v=4" width="30px">[WE_justStayT（ECIS）](https://github.com/LiaoYK001)
+<img src="https://avatars.githubusercontent.com/u/64720323?s=70&v=4" width="30px">[YvIsehlohn（ECIS）](https://github.com/yvisehrlohn)
 
 ECIS 赞助商：
 
-[yieldKing（ECIS）](https://github.com/ksdyfe)
+<img src="https://avatars.githubusercontent.com/u/150061865?s=70&v=4" width="30px">[yieldKing（ECIS）](https://github.com/ksdyfe)
 
 [<div align=center>![](https://github.com/ElemCraftInside-Server/.github/blob/master/pic/ECIS-loading.gif)](pic4)
