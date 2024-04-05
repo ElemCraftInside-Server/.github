@@ -152,4 +152,8 @@ ECIS CoreManage Team 一期开发成员（A-Z）：
 [WE_justStayT（ECIS）](https://github.com/LiaoYK001)
 [YvIsehlohn（ECIS）](https://github.com/yvisehrlohn)
 
+ECIS 赞助商：
+
+[ksdyfe（ECIS）](https://github.com/ksdyfe)
+
 [<div align=center>![](https://github.com/ElemCraftInside-Server/.github/blob/master/pic/ECIS-loading.gif)](pic4)
