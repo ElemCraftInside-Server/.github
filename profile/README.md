@@ -4,7 +4,15 @@
   <img src="https://github.com/ElemCraftInside-Server/.github/blob/master/pic/ECIS-169.png" width="600px">
 </p>
 
-## ECIS（ElemCraftInside-Server）:一个筹备中的CraftInside的分支项目,QQ交流群：583495083,[开发日志DevLog](https://github.com/orgs/ElemCraftInside-Server/projects/3)
+## ECIS（ElemCraftInside-Server）:一个基于的CraftInside的扩大化项目
+
+## [QQ交流群：583495083](https://qm.qq.com/q/5H8ir8jTv)，预计正式开服2024夏天
+
+## [开发日志DevLog](https://github.com/orgs/ElemCraftInside-Server/projects/3)
+
+有关[MUA高校联合(非官方)](https://github.com/ElemCraftInside-Server/.github/issues/4#issue-2177263946)情况
+
+----------------------------------------------------------------
 
 # **CraftInside服务器整合包**
 
