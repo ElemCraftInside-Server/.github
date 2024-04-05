@@ -149,7 +149,9 @@
 [<div align=center>![](https://github.com/ElemCraftInside-Server/.github/blob/master/pic/65e412c59f345e8d032da0d1.jpg)](pic3)
 
 ----------
-
+<p align="center">
+<img src="https://github.com/ElemCraftInside-Server/.github/blob/master/pic/admin.png" width="200px">
+</p>
   ** *ECIS项目核心开发组公示* **
 
 ECIS CoreManage Team 一期开发成员（A-Z）：
