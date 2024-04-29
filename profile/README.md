@@ -88,7 +88,7 @@
 <img src="https://github.com/orgs/ElemCraftInside-Server/projects/5/assets/149880662/9b0861db-7a2b-442f-96d1-1151f2155250" width="200px">
 </p>
 
- [## ECIS Mods Center 模组中心列表 ##](https://github.com/orgs/ElemCraftInside-Server/projects/5)
+ [## ECIS Mods Center 模组中心列表 ##](https://www.kdocs.cn/l/cnsOGNwF6o5U)
 </p>
 
 <div align=left>
