@@ -4,15 +4,16 @@
   <img src="https://github.com/ElemCraftInside-Server/.github/blob/master/pic/ECIS-169.png" width="600px">
 </p>
 
-## ECIS（ElemCraftInside-Server）:一个基于的CraftInside的扩大化项目 网站：https://www.craftinside.uk/
+> 该README文档正在重写中
 
-## [QQ交流群：583495083](https://qm.qq.com/q/5H8ir8jTv)，预计正式开服2024夏天，前瞻版2024.4.30左右开始
+### ECIS（ElemCraftInside-Server）：一个基于的CraftInside的扩大化项目 [项目主站](https://www.craftinside.uk)
 
-## [开发日志DevLog](https://github.com/orgs/ElemCraftInside-Server/projects/3)
+### [QQ交流群：583495083](https://qm.qq.com/q/5H8ir8jTv)，预计2024年7月正式开服，前瞻版已于2024.4.30开启
 
-有关[MUA高校联合(非官方)](https://github.com/ElemCraftInside-Server/.github/issues/4#issue-2177263946)情况
+### 查看我们的[开发日志DevLog](https://github.com/orgs/ElemCraftInside-Server/projects/3)
 
-----------------------------------------------------------------
+### 有关[MUA高校联合](https://github.com/ElemCraftInside-Server/.github/issues/4#issue-2177263946)情况(非官方)
+
 
 # **CraftInside服务器整合包**
 
@@ -22,7 +23,6 @@
 
 [<div align=center>![](https://github.com/ElemCraftInside-Server/.github/blob/master/pic/65e412c59f345e8d032d9f99.jpg)](pic1)
 
-<div align=right>注：本服务器正处于公测阶段，故暂未开放公共进服通道
 
 
 <div align=left>
@@ -92,59 +92,6 @@
 </p>
 
 <div align=left>
-  
-### 玩法类
-
-- [Creae] 机械动力
-- [Create: Steam 'n' Rails] 机械动力：汽鸣铁道
-- [Create: Big Cannons] 机械动力：火炮
-- [Farmer's Delight] 农夫乐事
-- [Corn Delight] 玉米乐事
-- [Explorer's Compass] 探险者罗盘
-- [Nature Compass] 自然罗盘
-- [AstikorCarts Redux] 人力拉车
-
-### 装饰类
-
-- [Supplementaries] 锦致装饰
-- [MrCrayfish's Furniture Mod] MrCrayfish的家具
-- [Decorative Lattices] 装饰框格
-- [PlayTics Deco] 工地装饰
-- [Immersive Paintings] 沉浸画框
-- [Diagonal Walls] 对角线围墙
-- [Diagonal Fences] 对角线栅栏
-- [Diagonal Windows] 对角线玻璃板
-
-### 辅助类
-
-- [AppleSkin] 苹果皮
-- [Forgematica] 全息蓝图（投影）
-- [Simple Voice Chat] 简单语音聊天
-- [Xaero's Mini Map] Xaero的小地图
-- [Xaero's World Map] Xaero的世界地图
-- [WI Zoom] WI变焦
-- [Just Enough Items] JEI物品管理
-- [Inventory HUD+] 物品栏HUD+
-- [Inventory Profiles Next] 一件背包整理Next
-- [Bocc HUD] 孤独HUD
-- [Auto Fish] 自动钓鱼
-- [Dynamic Crosshair] 动态准星
-- [Chat Heads] 聊天头像
-- [Better Advancements] 更好的进度
-- [Better FPS]
-- [Curtain]
-- [Shulker BoxTooltip]
-- [Tweakerge]
-- [Mouse Tweaks]
-- [Sound Physics Remastered]
-
-### 光影类
-
-- [Oculus]
-- [Oculus Flywheel Compat]
-- [Embeddium]
-- [Embeddium Extras]
-- [Embeddium Dynamic Lights]
 
 [<div align=center>![](https://github.com/ElemCraftInside-Server/.github/blob/master/pic/65e412c59f345e8d032da0d1.jpg)](pic3)
 
@@ -152,18 +99,18 @@
 <p align="center">
 <img src="https://github.com/ElemCraftInside-Server/.github/blob/master/pic/admin.png" width="200px">
 </p>
-  ** *ECIS项目核心开发组公示* **
+  ECIS项目核心开发组公示
 
 ECIS CoreManage Team 一期开发成员（A-Z）：
 
-<img src="https://avatars.githubusercontent.com/u/125719548?s=70&v=4" width="30px">[Numerous_（ECIS）](https://github.com/rrrexfield)
-<img src="https://avatars.githubusercontent.com/u/78775990?s=70&v=4" width="30px">[President0（ECIS）](https://github.com/President0)
-<img src="https://avatars.githubusercontent.com/u/117716855?s=70&v=4" width="30px">[Sakura-ender（ECIS）](https://github.com/sakura-ender)
-<img src="https://avatars.githubusercontent.com/u/149880662?s=70&v=4" width="30px">[WE_justStayT（ECIS）](https://github.com/LiaoYK001)
-<img src="https://avatars.githubusercontent.com/u/64720323?s=70&v=4" width="30px">[YvIsehlohn（ECIS）](https://github.com/yvisehrlohn)
+<img src="https://avatars.githubusercontent.com/u/125719548?s=70&v=4" width="30px">[Numerous](https://github.com/rrrexfield)
+<img src="https://avatars.githubusercontent.com/u/78775990?s=70&v=4" width="30px">[President0](https://github.com/President0)
+<img src="https://avatars.githubusercontent.com/u/117716855?s=70&v=4" width="30px">[Sakura-ender](https://github.com/sakura-ender)
+<img src="https://avatars.githubusercontent.com/u/149880662?s=70&v=4" width="30px">[WE_justStayT](https://github.com/LiaoYK001)
+<img src="https://avatars.githubusercontent.com/u/64720323?s=70&v=4" width="30px">[YvIsehlohn](https://github.com/yvisehrlohn)
 
 ECIS 赞助商：
 
-<img src="https://avatars.githubusercontent.com/u/150061865?s=70&v=4" width="30px">[yieldKing（ECIS）](https://github.com/ksdyfe)
+<img src="https://avatars.githubusercontent.com/u/150061865?s=70&v=4" width="30px">[yieldKing](https://github.com/ksdyfe)
 
 [<div align=center>![](https://github.com/ElemCraftInside-Server/.github/blob/master/pic/ECIS-loading.gif)](pic4)
