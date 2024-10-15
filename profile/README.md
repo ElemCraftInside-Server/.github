@@ -14,7 +14,7 @@
 
 ### 有关[MUA高校联合](https://github.com/ElemCraftInside-Server/.github/issues/4#issue-2177263946)情况(非官方)
 
-
+<img src="https://ecis.fairychar.com/api/badge/7/uptime?prefix=%E8%87%AA%E4%B8%8A%E6%AC%A1%E5%90%AF%E5%8A%A8+&amp;style=for-the-badge">
 
 
 # **CraftInside服务器整合包**
