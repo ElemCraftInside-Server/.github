@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://github.com/ElemCraftInside-Server/.github/blob/master/pic/ECISdev%20icon%20horizontal%20version.png" width="600px">
 </p>
-
+<img src="https://ecis.fairychar.com/api/badge/7/uptime?prefix=%E8%87%AA%E4%B8%8A%E6%AC%A1%E5%90%AF%E5%8A%A8+&amp;style=for-the-badge">
 ## ECIS（ElemCraftInside-Server）:A branch project under development by CraftInside.Join our QQ Group to communicate：583495083 [Development log](https://github.com/orgs/ElemCraftInside-Server/projects/3)
 
 **Welcome to the Minecraft world of CraftInside! This is not just a game server, but also a creative paradise. Here, you will open the doors to endless possibilities, unlock the power of creativity, join our server, and embark on your adventure with like-minded companions!**
